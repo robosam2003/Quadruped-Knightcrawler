@@ -5,3 +5,4 @@
 This was a really fun one, A four legged robot that took on many forms, including the "Knightcrawler" from Batman (see images), eventually becoming a robot dog.
 
 
+![Final Robot Dog](https://github.com/robosam2003/Quadruped-Knightcrawler/resources/20200124_222202.jpg)
