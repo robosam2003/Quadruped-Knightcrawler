@@ -1,6 +1,5 @@
-# Quadruped-Knightcrawler
-
-## An old project from a simpler time...
+# Quadruped-Knightcrawler - A project from a simpler time... 
+### September 2019 - May 2020
 
 This was a really fun one, A four legged robot that took on many forms, including the "Knightcrawler" from Batman (below), eventually becoming a robot dog.
 
@@ -9,13 +8,16 @@ This was a really fun one, A four legged robot that took on many forms, includin
 
 
 
-The robot used high-torque hobby servo motors and a 16-channel servo driver over I2c, controlled by the raspberry pi
+The robot used high-torque hobby servo motors and a 16-channel servo driver over I2c, controlled by the raspberry pi. 
 
+It could be controlled using a third-party ps3 controller, and included forward, backward, traverse left, traverse right, spin left, spin right, "sit" and "lie down" functions:
+
+<img src = "https://github.com/robosam2003/Quadruped-Knightcrawler/blob/master/resources/received_513616136016511.gif">
 
 Featured here: https://www.youtube.com/watch?v=MelQNC1I7Ws
 
 
 
 The final robot dog, assembled:
-![Final Robot Dog](https://github.com/robosam2003/Quadruped-Knightcrawler/blob/master/resources/20200124_222202.jpg)
 
+<img src="https://github.com/robosam2003/Quadruped-Knightcrawler/blob/master/resources/20200124_222202.jpg" width="600">
