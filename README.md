@@ -10,7 +10,7 @@ This was a really fun one, A four legged robot that took on many forms, includin
 
 The robot used high-torque hobby servo motors and a 16-channel servo driver over I2c, controlled by the raspberry pi. 
 
-It could be controlled using a third-party ps3 controller, and included forward, backward, traverse left, traverse right, spin left, spin right, "sit" and "lie down" functions:
+It could be controlled using a third-party ps3 controller, and included forward, backward, traverse left, traverse right, spin left, spin right, "lie down" and "sit" functions:
 
 <img src = "https://github.com/robosam2003/Quadruped-Knightcrawler/blob/master/resources/received_513616136016511.gif">
 
