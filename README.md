@@ -1,7 +1,7 @@
 # Quadruped-Knightcrawler - A project from a simpler time... 
 ### September 2019 - May 2020
 
-This was a really fun one, A four legged robot that took on many forms, including the "Knightcrawler" from Batman (below, left), eventually becoming a robot dog.
+This was a really fun one, A four legged robot that took on many forms, including Batman's "Knightcrawler" from Justice League (below, left), eventually becoming a robot dog.
 
 
 ![Image 1](https://github.com/robosam2003/Quadruped-Knightcrawler/blob/master/resources/20191130_163711.jpg)
